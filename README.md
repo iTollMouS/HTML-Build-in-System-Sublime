@@ -1,4 +1,4 @@
-# HTML-Build-in-System-Sublime for MacOS users 
+# HTML Build in System Sublime Text 3 for MacOS users 
 Here is a way to make your sublime compiles your code and runs it on any desired browsers 
 
 1- Find the correct path of the desired web browser .  
